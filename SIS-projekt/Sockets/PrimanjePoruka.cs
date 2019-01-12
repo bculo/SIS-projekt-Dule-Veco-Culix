@@ -23,6 +23,15 @@ namespace SIS_projekt.Sockets
         }
 
         /// <summary>
+        /// Zatvaranje socketa
+        /// </summary>
+        public void ZatvoriSocket()
+        {
+            if (socket != null)
+                socket.Close();
+        }
+
+        /// <summary>
         /// Cekanje na poruku
         /// </summary>
         public void CekajNaPoruku()
@@ -32,8 +41,16 @@ namespace SIS_projekt.Sockets
 
             while (true)
             {
-                Socket cekaj = socket.Accept();
-                Task.Run(() => CitanjePoruke(cekaj));
+                try
+                {
+                    Socket cekaj = socket.Accept();
+                    Task.Run(() => CitanjePoruke(cekaj));
+                }
+                catch (SocketException e)
+                {
+                    Debug.Print(new StringBuilder(StatickeVarijable.ERROR).Append(e.Message).ToString());
+                    break;
+                }
             }
         }
 

@@ -97,6 +97,7 @@ namespace SIS_projekt
             TrenutniKorisnik.PoslanePoruke.Clear();
             TrenutniKorisnik.OnlineKorisnici.Clear();
             timer.Stop();
+            poruke.ZatvoriSocket();
 
             await FireBaseV2.GetFireBase2.ObrisiAktinostNaFireBejsu();
         }
