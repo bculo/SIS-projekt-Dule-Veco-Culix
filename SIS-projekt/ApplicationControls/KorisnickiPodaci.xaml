@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="SIS_projekt.PocetniEkran.KorisnickiPodaci"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SIS_projekt.PocetniEkran"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500">
+    <Grid Background="White">
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- NASLOV PROZORA -->
+        <StackPanel VerticalAlignment="Center" Grid.Row="0" Margin="10">
+            <TextBlock Text="SIS Projekt"  FontSize="24"/>
+            <TextBlock Text="Božo Čulo, Hrvoje Dumančić, Vedran Grbavac" FontSize="14"/>
+        </StackPanel>
+
+        <!-- PODACI ZA UNOS -->
+        <StackPanel Margin="50" Grid.Row="1">
+            <TextBlock Text="Korisničko ime" FontSize="18"/>
+            <TextBox Name="korisnickoIme" FontSize="18" Padding="3"/>
+            <TextBlock Text="Port" FontSize="18" Margin="0 5 0 0 "/>
+            <TextBox Name="korisnickiPort" PreviewTextInput="korisnickiPort_PreviewTextInput" FontSize="18" Padding="3"/>
+            <Button Name="dalje" Content="DALJE" Click="dalje_Click" Style="{StaticResource FlatButtonStyle}" Margin="10"/>
+        </StackPanel> 
+    </Grid>
+</UserControl>

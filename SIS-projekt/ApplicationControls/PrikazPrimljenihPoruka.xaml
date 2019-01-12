@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="SIS_projekt.ApplicationControls.PrikazPrimljenihPoruka"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SIS_projekt.ApplicationControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500" >
+    <Grid Background="White">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <!-- NASLOV KONTROLE-->
+        <TextBlock Grid.Row="0" Text="PRIMLJENE PORUKE" FontSize="22" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <!-- PRIMLJENE PORUKE -->
+        <ListView Grid.Row="1" Name="bindanje" Margin="10" 
+                  BorderThickness="0" MaxHeight="380" PreviewMouseLeftButtonUp="bindanje_PreviewMouseLeftButtonUp">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Slike/message.png" Height="30" Margin="0 0 10 0"/>
+                        <TextBlock Text="PORUKA" MaxWidth="380" VerticalAlignment="Center"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </Grid>
+</UserControl>

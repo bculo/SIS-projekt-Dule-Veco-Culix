@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="SIS_projekt.ApplicationControls.SlanjePoruke"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SIS_projekt.ApplicationControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="500">
+    <StackPanel Background="White">
+        <TextBlock Text="Slanje poruke" HorizontalAlignment="Center" FontSize="18"/>
+        <TextBlock Name="primateljInformacije" Text="TEST" HorizontalAlignment="Center" FontSize="16" Margin="0 0 0 10"/>
+        <TextBox Name="unesiTekst" Height="300"
+            Width="450"
+            TextWrapping="Wrap"
+            AcceptsReturn="True"/>
+        <Button Name="posaljiPoruku" Style="{StaticResource FlatButtonStyle}"  Content="Posalji" Click="posaljiPoruku_Click" Margin="10"/>
+    </StackPanel>
+</UserControl>

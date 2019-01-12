@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="SIS_projekt.ApplicationControls.OnlineKorisnici"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SIS_projekt.ApplicationControls"
+             xmlns:data="clr-namespace:SIS_projekt"
+             mc:Ignorable="d" 
+             d:DesignHeight="500" d:DesignWidth="500" >
+    <Grid Background="White">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        
+        <!-- NASLOV KONTROLE-->
+        <StackPanel>
+            <TextBlock DockPanel.Dock="Left" Grid.Row="0" Text="ONLINE KORISNICI" FontSize="22" HorizontalAlignment="Center"/>
+            <Button Content="OSVJEZI" Style="{StaticResource FlatButtonStyle}" Height="20" Width="80" Name="osvjezi" Click="osvjezi_Click"/>
+        </StackPanel>
+        
+        <!-- PRIKAZ PODATKA -->
+        <ListView Grid.Row="1" Name="bindanje" Margin="10" 
+                  BorderThickness="0" PreviewMouseLeftButtonUp="bindanje_PreviewMouseLeftButtonUp"
+                  MaxHeight="380">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="/Slike/user.png" Height="30" Margin="0 0 10 0"/>
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Korisnicko ime: "/>
+                                <TextBlock Text="{Binding KorisnickoIme}"/>
+                            </StackPanel>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="Port: "/>
+                                <TextBlock Text="{Binding Port}"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </Grid>
+</UserControl>

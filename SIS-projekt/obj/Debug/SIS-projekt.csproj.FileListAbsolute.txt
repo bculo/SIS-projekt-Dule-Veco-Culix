@@ -1,0 +1,108 @@
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.App.config
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\MainControl.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\MainWindow.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\KorisnickiPodaci.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ProzorSadrzaj.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\App.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt_MarkupCompile.cache
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt_MarkupCompile.lref
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.exe.config
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.exe
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.pdb
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\FireSharp.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csprojResolveAssemblyReference.cache
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\App.baml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\MainControl.baml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\MainWindow.baml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\KorisnickiPodaci.baml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ProzorSadrzaj.baml
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.g.resources
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS_projekt.Properties.Resources.resources
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.GenerateResource.Cache
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.CoreCompileInputs.cache
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.exe
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.pdb
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\OnlineKorisnici.g.cs
+C:\Users\Bozo\source\repos\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\OnlineKorisnici.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.exe.config
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.exe
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\SIS-projekt.pdb
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\FireSharp.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\RestSharp.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Extensions.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Primitives.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.pdb
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Newtonsoft.Json.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\RestSharp.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Extensions.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.Primitives.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.App.config
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\MainControl.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\OnlineKorisnici.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\MainWindow.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\KorisnickiPodaci.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ProzorSadrzaj.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\App.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt_MarkupCompile.cache
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt_MarkupCompile.lref
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\App.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\MainControl.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\OnlineKorisnici.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\MainWindow.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\KorisnickiPodaci.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ProzorSadrzaj.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.g.resources
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS_projekt.Properties.Resources.resources
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.GenerateResource.Cache
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csproj.CoreCompileInputs.cache
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.exe
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.pdb
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Firebase.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.AppContext.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Console.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Globalization.Calendars.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.IO.Compression.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.IO.FileSystem.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Http.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Net.Sockets.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Reactive.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Xml.ReaderWriter.dll
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\bin\Debug\System.Reactive.xml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\SlanjePoruke.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\SlanjePoruke.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\PoslanePoruke.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\PoslanePoruke.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\PrikazPrimljenihPoruka.g.cs
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\ApplicationControls\PrikazPrimljenihPoruka.baml
+D:\SIS PROJEKT\SIS-projekt\SIS-projekt\obj\Debug\SIS-projekt.csprojResolveAssemblyReference.cache
